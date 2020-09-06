@@ -41,5 +41,5 @@ GitHub is where I fork.
 <br />
 
 ### Stats
-[![FireFeathers's github stats](https://github-readme-stats.vercel.app/api?username=FireFeathers06&count_private=true&show_icons=true&hide=stars&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FireFeathers06&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![FireFeathers's github stats](https://github-readme-stats.vercel.app/api?username=FireFeathers06&count_private=true&show_icons=true&hide=stars&theme=tokyonight&cache_second=10000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FireFeathers06&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
