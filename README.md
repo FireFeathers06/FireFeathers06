@@ -2,7 +2,7 @@
 
 [<img src="https://komarev.com/ghpvc/?username=FireFeathers06&label=Profile+Views&color=2e8b57&style=flat" />](https://github.com/FireFeathers06)
 
-<img src="https://avatars1.githubusercontent.com/u/39732529?s=460&u=edcc099186755c9d55abd0f18fb1fe4ac7677a78&v=4" align="right"  width="30%"/>
+<img src="https://media1.tenor.com/images/42ac51f14302744ccf87b36403340e68/tenor.gif?itemid=4770142" align="right"  width="30%"/>
 
 GitHub is where I fork.
 
