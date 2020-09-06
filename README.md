@@ -20,12 +20,6 @@ GitHub is where I fork.
 
 
 
-### Connect with me
-
-[<img align="left" height="30" src="https://github.com/FireFeathers06/FireFeathers06/blob/master/icons/insta.png">](https://www.instagram.com/__.harshit_)
-[<img align="left" height="30" src="https://github.com/FireFeathers06/FireFeathers06/blob/master/icons/linkedin.png">](https://www.linkedin.com/in/harshit-tiwari-165418187/)
-<br />
-
 ### Languages and Tools
 
 <img align="left" alt="python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -43,3 +37,9 @@ GitHub is where I fork.
 ### Stats
 [![FireFeathers's github stats](https://github-readme-stats.vercel.app/api?username=FireFeathers06&count_private=true&show_icons=true&hide=stars&theme=tokyonight&cache_second=10000)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FireFeathers06&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+### Connect with me
+
+[<img align="left" height="30" src="https://github.com/FireFeathers06/FireFeathers06/blob/master/icons/insta.png">](https://www.instagram.com/__.harshit_)
+[<img align="left" height="30" src="https://github.com/FireFeathers06/FireFeathers06/blob/master/icons/linkedin.png">](https://www.linkedin.com/in/harshit-tiwari-165418187/)
+<br />
