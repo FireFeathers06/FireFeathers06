@@ -14,6 +14,8 @@ GitHub is where I fork.
 
 - 💼 _I'm actively seeking internship opportunities._
 
+- I am also interested in python.
+
 <!--
 - ⚡ Fun fact: 
 -->
