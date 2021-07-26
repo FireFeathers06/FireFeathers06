@@ -40,6 +40,6 @@ GitHub is where I fork.
 
 ### Connect with me
 
-[<img align="left" height="30" src="https://github.com/FireFeathers06/FireFeathers06/blob/master/icons/insta.png">](https://www.instagram.com/__.harshit_)
+[<img align="left" height="30" src="https://github.com/FireFeathers06/FireFeathers06/blob/master/icons/insta.png">](https://www.instagram.com/_.harshit__)
 [<img align="left" height="30" src="https://github.com/FireFeathers06/FireFeathers06/blob/master/icons/linkedin.png">](https://www.linkedin.com/in/harshit-tiwari-165418187/)
 <br />
